@@ -1,1 +1,3 @@
-# open-devops-toolkit-rkg3
+# Open Devops Toolkit Rkg3
+
+A repository to test GitHub automation for issue management.
